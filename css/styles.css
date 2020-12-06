@@ -1,0 +1,122 @@
+/* Formatações Gerais */
+
+html,
+body,
+#main {
+    height: 100%;
+}
+
+/* Primeira coluna */
+
+.home-cell {
+    background: url('https://www.instagram.com/static/images/homepage/home-phones.png/43cc71bb1b43.png') top center;
+    background-repeat: no-repeat;
+    background-size: 454px 618px;
+    height: 618px;
+}
+
+img {
+    padding-top: 100px;
+    padding-bottom: 95px;
+    margin-left: 99px;
+}
+
+/* Segunda coluna */
+
+#div-two {
+    font-size: 12px;
+}
+
+#primeira-parte-form {
+    padding-bottom: 30px !important;
+}
+
+.div-form {
+    background: white;
+    border: 1px solid lightgray;
+}
+
+#logo {
+    font-family: 'Berkshire Swash', cursive;
+}
+
+#email {
+    margin-bottom: 10px;
+}
+
+.email-senha {
+    padding: 7px;
+    border: 1px solid lightgrey !important;
+}
+
+#duas-linhas {
+    margin-top: 10px;
+    margin-bottom: 18px;
+}
+
+.linha {
+    height: 1px;
+    border: 1px solid rgba(var(--b38, 219, 219, 219), 1);
+    width: 100%;
+}
+
+.ou {
+    font-size: 13px;
+    font-weight: 600;
+    line-height: 1px;
+    margin: 0 18px;
+    text-transform: uppercase;
+}
+
+#facebook-area {
+    margin-top: 35px;
+}
+
+.facebook {
+    color: #385185;
+    font-size: 15px;
+    line-height: 1;
+}
+
+.facebook a {
+    color: #385185;
+    margin-left: 10px;
+    font-weight: 500;
+}
+
+#esqueceu-senha {
+    text-align: center;
+    font-size: 12px;
+    line-height: 14px;
+    margin-top: 18px;
+}
+
+#esqueceu-senha a {
+    color: #00376b;
+}
+
+.cadastrar {
+    font-size: 14px;
+}
+
+.app {
+    font-size: 14px;
+}
+
+.apps {
+    font-size: 32px;
+    color: black;
+}
+
+/* Rodapé */
+
+#rodape a {
+    color: grey;
+    font-size: 12px;
+    padding: 6px;
+}
+
+#rodape .rodape-a {
+    padding-left: 10px;
+    padding-right: 10px;
+}
