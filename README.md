@@ -5,7 +5,7 @@
 
 ### 📚 Sobre
 
-Instagram Home é o clone da Página Home da rede social Instagram, desenvolvida a base de HTML5, CSS3 e Bootstrap4.
+Clone da Página inicial do Instagram, desenvolvido a base de HTML5, CSS3 e Bootstrap4.
 
 ### 🎨 Detalhe
 
