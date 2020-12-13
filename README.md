@@ -10,6 +10,7 @@ Clone da Página inicial do Instagram, desenvolvido a base de HTML5, CSS3 e Boot
 ### 🎨 Detalhe
 
 Site desenvolvido com o sistema de grids do Bootstrap4.
+Feito por mim para práticar Bootstrap.
 
 Site responsivo.
 
