@@ -16,6 +16,14 @@ Site responsivo.
 
 <hr>
 
+### 🔥 Como contribuir
+
+```
+Fork este respositório
+Faça as mudanças
+Abra um pull request
+```
+
 ### 💻 Tecnologias utilizadas
 
 Neste site foi utilizado as seguintes tecnologias
